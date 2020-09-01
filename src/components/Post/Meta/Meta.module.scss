@@ -3,7 +3,10 @@
 
 .meta {
   &__date {
-    font-style: italic;
+    font-size: $typographic-small-font-size;
+    color: $color-base;
+    font-weight: 600;
+    text-transform: uppercase;
   }
 
 }
